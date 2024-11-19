@@ -27,7 +27,7 @@ The dataset used for this project is available on __[Kaggle Market Basket Analys
 1. Open Anaconda Navigator.
 2. Launch Jupyter Notebook from Anaconda Navigator.
 3. In the Jupyter Notebook, navigate to the directory where you want to save this project.
-4. In your web browser, go to the GitHub repository where the project files are hosted: [GitHub Repository Link](https://github.com/suhaibpalli/IBM-AI).
+4. In your web browser, go to the GitHub repository where the project files are hosted: [GitHub Repository Link](https://github.com/ZohairSait/IBM_AI_PROJECT).
 5. Click on the "Code" button and select "Download ZIP" to download the entire project as a ZIP file.
 6. Extract the ZIP file to your chosen directory.
 7. Inside the extracted folder, you will find the Jupyter Notebook file named `AI_Phase5.ipynb`. Open this file by clicking on it.
